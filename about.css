@@ -1,0 +1,17 @@
+*{
+    background-color: #333;
+    color: whitesmoke;
+}
+.about-section {
+    padding: 50px;
+}
+.about-section h2 {
+    margin-bottom: 20px;
+}
+.about-section p {
+    margin-bottom: 20px;
+}
+.about-section ul {
+    list-style-type: none;
+    padding-left: 20px;
+}
